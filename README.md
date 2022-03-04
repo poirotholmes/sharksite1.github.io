@@ -1,2 +1,2 @@
 # sharksite1.github.io
-Just about sharky coolness 
+just about sharky coolness 
